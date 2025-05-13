@@ -15,6 +15,7 @@
 # Reading List 
 
 ## Newer 
+* [Behavioral Sticky Prices](https://www.kellogg.northwestern.edu/faculty/rebelo/htm/rocketsfeathers.pdf)
 * [Impulse Response Analysis of Structural Nonlinear Time Series Models](https://arxiv.org/pdf/2305.19089)
 * [Semiparametric inference for impulse response functions using double/debiased machine learning](https://arxiv.org/pdf/2411.10009)
 
