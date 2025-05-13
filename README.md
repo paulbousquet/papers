@@ -1,7 +1,7 @@
 # Papers I'm Working Through
 
 ## Newer
-
+* [A New Keynesian Model for Financial Markets](https://www.frbsf.org/wp-content/uploads/wp2023-35.pdf)
 * [Opening the Black Box of Local Projections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237376)
 * [Some Inference Perils of a Taylor Rule](https://www.lse.ac.uk/CFM/assets/pdf/Taylor-Rule.v2.3.pdf)
 * [Controls, Not Shocks: Estimating Dynamic Causal Effects in Macroeconomics](https://splloyd-econ.github.io/LM_CNS_Draft_Sep24.pdf)
