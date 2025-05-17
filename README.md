@@ -16,6 +16,7 @@
 
 ## Newer 
 * [Behavioral Sticky Prices](https://www.kellogg.northwestern.edu/faculty/rebelo/htm/rocketsfeathers.pdf)
+* [Monetary Policy With Inelastic Asset Markets](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2025/wp25-15.pdf)
 * [Scenario Synthesis and Macroeconomic Risk](https://arxiv.org/pdf/2505.05193) 
 * [Impulse Response Analysis of Structural Nonlinear Time Series Models](https://arxiv.org/pdf/2305.19089)
 * [Semiparametric inference for impulse response functions using double/debiased machine learning](https://arxiv.org/pdf/2411.10009)
