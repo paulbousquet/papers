@@ -16,6 +16,7 @@
 
 ## Newer 
 * [Behavioral Sticky Prices](https://www.kellogg.northwestern.edu/faculty/rebelo/htm/rocketsfeathers.pdf)
+* [Scenario Synthesis and Macroeconomic Risk](https://arxiv.org/pdf/2505.05193) 
 * [Impulse Response Analysis of Structural Nonlinear Time Series Models](https://arxiv.org/pdf/2305.19089)
 * [Semiparametric inference for impulse response functions using double/debiased machine learning](https://arxiv.org/pdf/2411.10009)
 
