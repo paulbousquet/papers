@@ -22,5 +22,6 @@
 * [Semiparametric inference for impulse response functions using double/debiased machine learning](https://arxiv.org/pdf/2411.10009)
 
 ## Older
+* [Monetary Policy and Market Interest Rates](https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1594) 
 * [Improving Monetary Policy Models](http://sims.princeton.edu/yftp/CBModels/CBModelsPaper.pdf)
 * [Two Difficulties in Interpreting VARs](http://www.tomsargent.com/books/TOMchpt.4.pdf)
