@@ -1,5 +1,6 @@
 ## May 2025
 
+* [Opening the Blackbox of Local Projections](https://arxiv.org/pdf/2505.12422)
 * [Revisiting the Forecasts of Others ](https://www.nber.org/papers/w33794)
 * [Three Theories of Natural Rate Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5255307)
 * [The Interest Rate Elasticity of Investment: Micro Estimates and Macro Implications](https://ckwroblewski.github.io/research/investment.pdf)
