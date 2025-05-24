@@ -1,5 +1,7 @@
 ## May 2025
 
+* [The Spill-back and Spillover Effects of US Monetary Policy](https://www.nber.org/papers/w33811)
+* [Expectation Formation with Fat-Tailed Processes: Expectations and Theory](https://www.timdesilva.me/files/papers/fat_tails.pdf)
 * [Opening the Blackbox of Local Projections](https://arxiv.org/pdf/2505.12422)
 * [Revisiting the Forecasts of Others ](https://www.nber.org/papers/w33794)
 * [Three Theories of Natural Rate Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5255307)
