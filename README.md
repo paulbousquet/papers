@@ -20,6 +20,7 @@
 * [Behavioral Sticky Prices](https://www.kellogg.northwestern.edu/faculty/rebelo/htm/rocketsfeathers.pdf)
 * [Monetary Policy With Inelastic Asset Markets](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2025/wp25-15.pdf)
 * [Online Monitoring of Policy Optimality ](https://cb.is/library/news-and-publications/publications/working-papers/WorkingPaper_95_BjarniGEinarsson_OnlineMonetoringOfPolicyOptimalityApril2024_.pdf)
+* [Fitting Dynamically Misspecified Models: An Optimal Transportation Approach](https://arxiv.org/pdf/2412.20204) 
 * [Scenario Synthesis and Macroeconomic Risk](https://arxiv.org/pdf/2505.05193) 
 * [Impulse Response Analysis of Structural Nonlinear Time Series Models](https://arxiv.org/pdf/2305.19089)
 * [Semiparametric inference for impulse response functions using double/debiased machine learning](https://arxiv.org/pdf/2411.10009)
