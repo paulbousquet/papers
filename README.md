@@ -8,6 +8,7 @@
 * [Some Inference Perils of a Taylor Rule](https://www.lse.ac.uk/CFM/assets/pdf/Taylor-Rule.v2.3.pdf)
 * [Controls, Not Shocks: Estimating Dynamic Causal Effects in Macroeconomics](https://splloyd-econ.github.io/LM_CNS_Draft_Sep24.pdf)
 * [Monetary Policy Surprises: Robust Dynamic Causal Effects](https://carleton.scholaris.ca/server/api/core/bitstreams/54bec7ee-9be7-4162-aa31-95c9801c5c2e/content)
+* [Residualized Treatment Intensity and the Estimation of Average Partial Effects ](https://arxiv.org/pdf/2502.10301)
 
 ## Older 
 
