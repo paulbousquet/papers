@@ -19,3 +19,16 @@
 * [NYFed Conference on R*](https://www.newyorkfed.org/research/conference/2025/Amec-whither-rstar)
 * [Heterogeneous Beliefs, Asset Prices, and Belief Driven Business Cycles](https://www.nber.org/papers/w33672)
 * [Disentangling Monetary Policy, Central Bank Information, and Fed Response to News Shocks](https://peterkaradi.github.io/website/WorkInProgress/JarocinskiKaradiMPFRNCBI.pdf)
+
+## Older
+
+* [Do Households Substitute Intertemporally? 10 Structural Shocks That Suggest Not](https://www.federalreserve.gov/econres/feds/do-households-substitute-intertemporally.htm)
+* [The Four R-stars: From Interest Rates to Inflation and Back](https://www.lse.ac.uk/CFM/assets/pdf/CFM-Discussion-Papers-2025/CFMDP2025-11-Paper.pdf)
+* [The Granular Origins of Inflation](https://www.bis.org/publ/work1240.pdf)
+* [Can Machines Learn Weak Signals](https://www.nber.org/papers/w33421)
+* [The Impact of Tariffs on Inflation](https://www.bostonfed.org/publications/current-policy-perspectives/2025/the-impact-of-tariffs-on-inflation.aspx)
+* [The Statistical Limits of Arbitrage](https://www.nber.org/papers/w33070)
+* [New Keynesian Economics through the Extensive Margin](https://www.nber.org/papers/w33332)
+* [Learning about Learning](https://drive.google.com/file/d/1A6hOHR2NF_7ptPSxcmvLZGbaAZh-10W3/view)
+* 
+* [Bank Margins](https://x.com/StevenKelly49/status/1834633061402612111)
