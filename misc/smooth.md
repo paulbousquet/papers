@@ -4,6 +4,7 @@
 * [Doves, Hawks, and Pigeons](https://www.sciencedirect.com/science/article/pii/S1572308916300985)
 
 ### Loaded
+```
 @article{boehmhouse,
   title={Optimal Taylor Rules When Targets Are Uncertain},
   author={Boehm, Christoph E. and House, Christopher L.},
@@ -115,5 +116,5 @@
     year = {1997},
     month = {12}
 }
-
+```
 
