@@ -124,5 +124,13 @@
   month = {April},
   address = {Cambridge, Massachusetts},
   type = {PhD dissertation}
+@incollection{lowe1997smoothing,
+  author = {Lowe, Philip and Ellis, Luci},
+  title = {The smoothing of official interest rates},
+  booktitle = {Monetary Policy and Inflation Targeting},
+  publisher = {Reserve Bank of Australia},
+  year = {1997},
+  pages = {287--312}
+}
 ```
 
