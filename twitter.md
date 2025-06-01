@@ -1,3 +1,7 @@
+## June 2025
+
+* [Scenario Synthesis and Macroeconomic Risk](https://arxiv.org/pdf/2505.05193) 
+
 ## May 2025
 
 * [The Spill-back and Spillover Effects of US Monetary Policy](https://www.nber.org/papers/w33811)
