@@ -1,5 +1,4 @@
 * [Monetary Policy and Market Interest Rates](https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1594)
 * [A Model for Policy Interest Rates](https://www.sciencedirect.com/science/article/pii/S0165188920302177?via%3Dihub)
-* [A Pitfall of Cautiousness in Monetary Policy](https://drive.google.com/file/d/12pLftcBt6bpUEmfeUgONRpywnWbdNnTT/view)
 * [Policymaker's Uncertainty ](https://sekhansen.github.io/pdf_files/mp_uncertainty.pdf)
 * [Benefits of Gradualism or Costs of Inaction: Monetary Policy During times of Uncertainty](https://www.bancaditalia.it/pubblicazioni/altri-atti-convegni/2018-2escb/12_ferrero_gradualism_2018_11_02.pdf)
