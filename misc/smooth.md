@@ -116,5 +116,13 @@
     year = {1997},
     month = {12}
 }
+@phdthesis{choi2018,
+  author = {Choi, David},
+  title = {Essays on Monetary Policy with Informational Frictions},
+  school = {Harvard University},
+  year = {2018},
+  month = {April},
+  address = {Cambridge, Massachusetts},
+  type = {PhD dissertation}
 ```
 
