@@ -31,5 +31,5 @@
 * [New Keynesian Economics through the Extensive Margin](https://www.nber.org/papers/w33332)
 * [Learning about Learning](https://drive.google.com/file/d/1A6hOHR2NF_7ptPSxcmvLZGbaAZh-10W3/view)
 * [The Speed of Firm Response to Inflation](https://www.nber.org/papers/w32731)
-* 
+* [Micro Responses to Macro Shocks](https://sancibrian-v.github.io/files/lp_panels.pdf)
 * [Bank Margins](https://x.com/StevenKelly49/status/1834633061402612111)
