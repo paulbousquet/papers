@@ -1,5 +1,6 @@
 ## June 2025
 
+* [Efficient Estimation of Non-linear DSGE Models](https://seanmccrary.github.io/JMP/StateDepNKDMP.pdf) 
 * [Scenario Synthesis and Macroeconomic Risk](https://arxiv.org/pdf/2505.05193) 
 
 ## May 2025
