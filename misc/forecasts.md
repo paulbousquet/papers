@@ -1,3 +1,4 @@
+* [Biased Forecasts](https://www.nber.org/system/files/working_papers/w31607/w31607.pdf)
 * [Categorical Thinking about Interest Rates](https://chenwang.one/files/categorical.pdf)
 * [Analyzing the Analysts](https://onlinelibrary.wiley.com/doi/10.1111/1540-6261.00526)
 * [Forecasters' Objectives and Strategies](https://didattica.unibocconi.it/mypage/upload/48832_20150612_102039_CHAPTER12.PDF)
