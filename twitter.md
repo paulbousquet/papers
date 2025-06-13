@@ -1,5 +1,7 @@
 ## June 2025
 
+* [Asymmetric price adjustment over the business cycle](https://arxiv.org/abs/2506.10640) 
+* [Linear Regression under Weak Exogeneity](https://www.econometricsociety.org/publications/quantitative-economics/2025/05/01/Linear-Regression-with-Weak-Exogeneity)
 * [Global Price Shocks and International Monetary Coordination](https://economics.mit.edu/sites/default/files/inline-files/coordination%20NT%208.pdf)
 * [Efficient Estimation of Non-linear DSGE Models](https://seanmccrary.github.io/JMP/StateDepNKDMP.pdf) 
 * [Scenario Synthesis and Macroeconomic Risk](https://arxiv.org/pdf/2505.05193) 
