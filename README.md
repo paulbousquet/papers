@@ -29,6 +29,7 @@
 * [Fitting Dynamically Misspecified Models: An Optimal Transportation Approach](https://arxiv.org/pdf/2412.20204) 
 * [Scenario Synthesis and Macroeconomic Risk](https://arxiv.org/pdf/2505.05193)
 * [Policy Learning with Confidence](https://arxiv.org/pdf/2502.10653)
+* [International Spillovers of Monetary Policy: The Role of Currency Compositions](https://www.sundram.dk/US_MP_Spillovers.pdf)
 * [Impulse Response Analysis of Structural Nonlinear Time Series Models](https://arxiv.org/pdf/2305.19089)
 * [Semiparametric inference for impulse response functions using double/debiased machine learning](https://arxiv.org/pdf/2411.10009)
 
