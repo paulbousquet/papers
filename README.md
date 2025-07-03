@@ -4,6 +4,8 @@
 * [Identification of Systematic Monetary Policy](https://lukashack.com/files/sysmp/HIM_SysMP.pdf)
 * [A New Keynesian Model for Financial Markets](https://www.frbsf.org/wp-content/uploads/wp2023-35.pdf)
 * [The Return of Greenspan: Mumbling with Great Incoherence](https://www.dropbox.com/scl/fi/x11o7t8os4lqxh1a682l2/Return_of_Greenspan.pdf?rlkey=4qfjc39oloagzkxglisht8vz8&e=1&dl=0)
+* [Monetary Policy without Moving Interest Rates: The Fed Non-Yield Shock](https://nbviewer.org/github/tnkroner/website/blob/master/beyond_yield_curve_032521.pdf)
+* [Disentangling Monetary Policy, Central Bank Information, and Fed Response to News Shocks](https://peterkaradi.github.io/website/WorkInProgress/JarocinskiKaradiMPFRNCBI.pdf)
 * [Disagreement and Discretionary Monetary Policy](https://www.ijcb.org/journal/ijcb25q1a8.pdf)
 * [A Pitfall of Cautious Monetary Policy](https://www.ijcb.org/journal/ijcb23q3a7.pdf)
 * [Opening the Black Box of Local Projections](https://arxiv.org/pdf/2505.12422v1)
