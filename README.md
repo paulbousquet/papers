@@ -1,6 +1,7 @@
 # Papers I'm Working Through
 
 ## Newer
+* [Risk-Adjusted Optimal Policy for Scenario Analysis](https://giovanninicolo.com/wp-content/uploads/2025/06/risk-adjusted-oc.pdf)
 * [Identification of Systematic Monetary Policy](https://lukashack.com/files/sysmp/HIM_SysMP.pdf)
 * [A New Keynesian Model for Financial Markets](https://www.frbsf.org/wp-content/uploads/wp2023-35.pdf)
 * [The Return of Greenspan: Mumbling with Great Incoherence](https://www.dropbox.com/scl/fi/x11o7t8os4lqxh1a682l2/Return_of_Greenspan.pdf?rlkey=4qfjc39oloagzkxglisht8vz8&e=1&dl=0)
