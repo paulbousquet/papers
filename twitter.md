@@ -1,6 +1,6 @@
 ## July 2025
 
-*[AI and the Fed](https://www.nber.org/papers/w33998?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg22)
+* [AI and the Fed](https://www.nber.org/papers/w33998?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg22)
 
 ## June 2025
 
