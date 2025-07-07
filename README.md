@@ -35,6 +35,7 @@
 * [International Spillovers of Monetary Policy: The Role of Currency Compositions](https://www.sundram.dk/US_MP_Spillovers.pdf)
 * [Impulse Response Analysis of Structural Nonlinear Time Series Models](https://arxiv.org/pdf/2305.19089)
 * [Semiparametric inference for impulse response functions using double/debiased machine learning](https://arxiv.org/pdf/2411.10009)
+* [Endogenous Heteroskedasticity in Linear Models](https://arxiv.org/pdf/2412.02767)
 
 ## Older
 * [Monetary Policy and Market Interest Rates](https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1594) 
