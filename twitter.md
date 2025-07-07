@@ -1,3 +1,7 @@
+## July 2025
+
+*[AI and the Fed](https://www.nber.org/papers/w33998?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg22)
+
 ## June 2025
 
 * [Asymmetric price adjustment over the business cycle](https://arxiv.org/abs/2506.10640) 
