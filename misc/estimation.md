@@ -1,5 +1,6 @@
 * [Partial Tempering](https://www.bankofcanada.ca/wp-content/uploads/2024/05/swp2024-13.pdf) [(code)](https://github.com/braultjosh/Parallel-Tempering-for-DSGE-Estimation)
 * [Fusing Filtering and Solving](https://seanmccrary.github.io/JMP/StateDepNKDMP.pdf) [(code)](https://github.com/SeanMcCrary/EfficientEstimationDSGE)
+* [Near-Rational Equillibrium in HAM](https://academic.oup.com/rfs/article-abstract/38/8/2227/8127022?redirectedFrom=fulltext)
 
 ## Deep Learning 
 
