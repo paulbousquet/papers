@@ -4,3 +4,4 @@
 * [Forecasters' Objectives and Strategies](https://didattica.unibocconi.it/mypage/upload/48832_20150612_102039_CHAPTER12.PDF)
 * [Expectations Formation with Fat-Tailed Processes: Evidence and Theory](https://www.timdesilva.me/files/papers/fat_tails.pdf)
 * [Lumpy Forecasts](https://bw.bse.eu/wp-content/uploads/2025/01/1476.pdf)
+* [The Realtime Informational Content of Data Releases](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp633.pdf)
