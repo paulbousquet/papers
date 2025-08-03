@@ -5,6 +5,7 @@
 * [AI and the Fed](https://www.nber.org/papers/w33998?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg22)
 * [Brothers in Arms: M-F Interactions Without Ricardian Equivalence](https://www.dropbox.com/scl/fi/jvyj7sinbsobgprd14jac/MonetaryFiscal_forWeb.pdf?rlkey=n6wtzigzvvtcjfzd0o2t4gneo&st=umdn9as6&raw=1)
 * [What Are Empirical Monetary Policy Shocks? Estimating the Term Structure of Policy News](https://jonathanjadams.com/files/Adams%20Barrett%205%20-%20Term%20Structure/Term_Structure_of_Monetary_Policy_News.pdf)
+  * [Relevant thread ](https://x.com/paulbsqt/status/1943324711938854969)  
 
 ## June 2025
 
