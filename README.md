@@ -38,6 +38,7 @@
 * [Projection Estimators for Structure Impulse Responses](https://d-nb.info/1317452976/34#:~:text=,structural%20shock%20is%20estimated%20within)
 * [Endogenous Heteroskedasticity in Linear Models](https://arxiv.org/pdf/2412.02767)
 * [Non-parametric "Rich Covariates" Without Saturation](https://arxiv.org/pdf/2505.21213)
+* [Re-evaluating the validity of monetary policy instruments](https://www.sciencedirect.com/science/article/pii/S0304393225000844?dgcid=raven_sd_aip_email)
 
 ## Older
 * [Monetary Policy and Market Interest Rates](https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1594) 
