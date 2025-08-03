@@ -46,4 +46,5 @@
 * [The Speed of Firm Response to Inflation](https://www.nber.org/papers/w32731)
 * [Micro Responses to Macro Shocks](https://sancibrian-v.github.io/files/lp_panels.pdf)
 * [Can Daily Closing Prices Predict Future Movements?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4718961)
+* [Wooldrige on FWL](https://x.com/jmwooldridge/status/1853153957742575655)
 * [Bank Margins](https://x.com/StevenKelly49/status/1834633061402612111)
