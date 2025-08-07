@@ -1,3 +1,7 @@
+## August 2025
+
+* [Monetary Policy and Supply Disturbances: A Heterogeneous Firm Approach ](https://storage.e.jimdo.com/file/48210076-fded-43d1-b774-0f46c270fb5d/Seoul_World_Congress_2025-13.pdf)
+
 ## July 2025
 
 * [Partisan Bias in Professional Forecasts](https://aeimit.weebly.com/uploads/2/5/5/8/25585085/pol_bias_jun2025.pdf)
