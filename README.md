@@ -1,6 +1,7 @@
 # Papers I'm Working Through
 
 ## Newer
+* [Monetary Policy and Supply Disturbances: A Heterogeneous Firm Approach ](https://storage.e.jimdo.com/file/48210076-fded-43d1-b774-0f46c270fb5d/Seoul_World_Congress_2025-13.pdf)
 * [Risk-Adjusted Optimal Policy for Scenario Analysis](https://giovanninicolo.com/wp-content/uploads/2025/06/risk-adjusted-oc.pdf)
 * [Identification of Systematic Monetary Policy](https://lukashack.com/files/sysmp/HIM_SysMP.pdf)
 * [A New Keynesian Model for Financial Markets](https://www.frbsf.org/wp-content/uploads/wp2023-35.pdf)
