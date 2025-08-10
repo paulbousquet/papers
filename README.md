@@ -34,6 +34,7 @@
 * [Scenario Synthesis and Macroeconomic Risk](https://arxiv.org/pdf/2505.05193)
 * [Policy Learning with Confidence](https://arxiv.org/pdf/2502.10653)
 * [International Spillovers of Monetary Policy: The Role of Currency Compositions](https://www.sundram.dk/US_MP_Spillovers.pdf)
+* [Divine Coincidence or Dismal Coordination? The Fiscal Requirements of a Dual Mandate](https://www.amherst.edu/system/files/dcordc.pdf)
 * [Impulse Response Analysis of Structural Nonlinear Time Series Models](https://arxiv.org/pdf/2305.19089)
 * [Semiparametric inference for impulse response functions using double/debiased machine learning](https://arxiv.org/pdf/2411.10009)
 * [Projection Estimators for Structure Impulse Responses](https://d-nb.info/1317452976/34#:~:text=,structural%20shock%20is%20estimated%20within)
