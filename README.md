@@ -16,6 +16,7 @@
 * [Monetary Policy Surprises: Robust Dynamic Causal Effects](https://carleton.scholaris.ca/server/api/core/bitstreams/54bec7ee-9be7-4162-aa31-95c9801c5c2e/content)
 * [Identification and Estimation of Causal Effects in High-Frequency Event Studies](https://arxiv.org/abs/2406.15667)
 * [The Term Structure of Monetary Policy News](https://jonathanjadams.com/files/Adams%20Barrett%205%20-%20Term%20Structure/Term_Structure_of_Monetary_Policy_News.pdf)
+* [Investigating Instruments with Meta-Regressions ](https://drive.google.com/file/d/1Xmyb0EMDq4fcqcyGVNKVT02adKmm1aeN/view)
 * [Residualized Treatment Intensity and the Estimation of Average Partial Effects ](https://arxiv.org/pdf/2502.10301)
 
 ## Older 
