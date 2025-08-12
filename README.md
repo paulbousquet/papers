@@ -46,4 +46,5 @@
 * [Monetary Policy and Market Interest Rates](https://www.aeaweb.org/articles?id=10.1257/aer.91.5.1594) 
 * [Improving Monetary Policy Models](http://sims.princeton.edu/yftp/CBModels/CBModelsPaper.pdf)
 * [Two Difficulties in Interpreting VARs](http://www.tomsargent.com/books/TOMchpt.4.pdf)
+* [How Credible is the Federal Reserve?](https://www.aeaweb.org/articles?id=10.1257/mac.20150029)
 * [Why ask Why](https://www.nber.org/system/files/working_papers/w19614/w19614.pdf)
