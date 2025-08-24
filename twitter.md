@@ -1,5 +1,6 @@
 ## August 2025
 
+* [Beyond the Tayor Rule](https://eml.berkeley.edu/~jsteinsson/papers/Taylor_Rule.pdf)
 * [A meta-analysis of monetary policy regressions](https://osf.io/preprints/osf/72cen_v2)
 * [Robustness Measures for Welfare Analysis ](https://x.com/shoshievass/status/1951060540421472709)
 * [Monetary Policy and Supply Disturbances: A Heterogeneous Firm Approach ](https://storage.e.jimdo.com/file/48210076-fded-43d1-b774-0f46c270fb5d/Seoul_World_Congress_2025-13.pdf)
