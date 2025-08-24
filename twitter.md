@@ -1,5 +1,6 @@
 ## August 2025
 
+* [FEDS Notes prepared for Jackson Hole 2025](https://x.com/FedResearch/status/1958897485096665155)
 * [Beyond the Tayor Rule](https://eml.berkeley.edu/~jsteinsson/papers/Taylor_Rule.pdf)
 * [A meta-analysis of monetary policy regressions](https://osf.io/preprints/osf/72cen_v2)
 * [Robustness Measures for Welfare Analysis ](https://x.com/shoshievass/status/1951060540421472709)
