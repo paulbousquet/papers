@@ -6,3 +6,4 @@
 * [Lumpy Forecasts](https://bw.bse.eu/wp-content/uploads/2025/01/1476.pdf)
 * [The Realtime Informational Content of Data Releases](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp633.pdf)
 * [Overconfidence in Private Information Explains Biases in Professional Forecasts](https://storage.e.jimdo.com/file/426c1cc0-901c-4856-9d09-6e8803ae757f/Survey_forecasts_Adam_Kuang_Xie-25.pdf)
+* [Strategic Forecasts Under Ambiguity ](https://www.dropbox.com/scl/fi/mo24tuuw8ox2b3pyvscv0/Strategic-Forecasts-Under-Ambiguity.pdf?rlkey=3gppji013f9bggqwubift7ev9&e=1&dl=0)
