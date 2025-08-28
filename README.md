@@ -36,6 +36,7 @@
 * [Policy Learning with Confidence](https://arxiv.org/pdf/2502.10653)
 * [International Spillovers of Monetary Policy: The Role of Currency Compositions](https://www.sundram.dk/US_MP_Spillovers.pdf)
 * [Divine Coincidence or Dismal Coordination? The Fiscal Requirements of a Dual Mandate](https://www.amherst.edu/system/files/dcordc.pdf)
+* [Complete Pass-through in Levels](https://kunalsangani.com/files/complete_passthrough_live.pdf)
 * [Online Monitoring of Policy Optimality ](https://cb.is/library/news-and-publications/publications/working-papers/WorkingPaper_95_BjarniGEinarsson_OnlineMonetoringOfPolicyOptimalityApril2024_.pdf)
 * [Impulse Response Analysis of Structural Nonlinear Time Series Models](https://arxiv.org/pdf/2305.19089)
 * [Semiparametric inference for impulse response functions using double/debiased machine learning](https://arxiv.org/pdf/2411.10009)
