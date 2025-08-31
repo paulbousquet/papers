@@ -1,5 +1,6 @@
 ## August 2025
 
+* [Measurement Error and the Post-COVID Tightening](https://x.com/paulbsqt/status/1962178784649457927)
 * [The Race Between Asset Supply and Demand ](https://straub.scholars.harvard.edu/sites/g/files/omnuum7751/files/2025-08/AMRS%20Jackson%20Hole.pdf)
 * [FEDS Notes prepared for Jackson Hole 2025](https://x.com/FedResearch/status/1958897485096665155)
 * [Beyond the Tayor Rule](https://eml.berkeley.edu/~jsteinsson/papers/Taylor_Rule.pdf)
