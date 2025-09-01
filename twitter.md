@@ -1,3 +1,7 @@
+## September 2025
+
+* [The Fed Informaiton Effect: A New Perspective](https://whymacro.substack.com/p/the-fed-information-effect-a-new) 
+
 ## August 2025
 
 * [Measurement Error and the Post-COVID Tightening](https://x.com/paulbsqt/status/1962178784649457927)
