@@ -1,5 +1,6 @@
 ## September 2025
 
+* [Expectation Response Functions in Dynamic Linear Economies](https://www.nber.org/papers/w34210)
 * [What Makes Depositors Tick? Insights into HH Liquid Asset Allocation](https://fercirelli.github.io/personal_website/Cirelli_Olafsson_0825.pdf)
 * [Simulated Referee Report](https://x.com/johnjhorton/status/1962974927327526962)
 * [The Fed Informaiton Effect: A New Perspective](https://whymacro.substack.com/p/the-fed-information-effect-a-new) 
