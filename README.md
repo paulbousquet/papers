@@ -52,4 +52,5 @@
 * [Improving Monetary Policy Models](http://sims.princeton.edu/yftp/CBModels/CBModelsPaper.pdf)
 * [Two Difficulties in Interpreting VARs](http://www.tomsargent.com/books/TOMchpt.4.pdf)
 * [How Credible is the Federal Reserve?](https://www.aeaweb.org/articles?id=10.1257/mac.20150029)
+* [SVAR Scenario](https://www.sciencedirect.com/science/article/pii/S0304393220300751)
 * [Why ask Why](https://www.nber.org/system/files/working_papers/w19614/w19614.pdf)
