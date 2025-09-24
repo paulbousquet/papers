@@ -11,3 +11,5 @@
 * [Inequality at the ZLB](https://github.com/jmarbet/inequality-zlb)
 * [Maliar and Maliar](https://github.com/paulbousquet/Macro-Models/blob/main/misc/NK_maliar.ipynb)
 *[ Bias Corrected MC](https://github.com/JulienPascal/bc-MC_Operator) (a generalization of the all-in-one operator)
+* [Operator Learning in Macro](https://warwick.ac.uk/fac/soc/economics/staff/yzhong/yaolang_zhong_jmp.pdf)
+* [DL in the Sequence Space](https://arxiv.org/abs/2509.13623)
