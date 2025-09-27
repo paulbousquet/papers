@@ -35,6 +35,7 @@
 * [Fitting Dynamically Misspecified Models: An Optimal Transportation Approach](https://arxiv.org/pdf/2412.20204) 
 * [Scenario Synthesis and Macroeconomic Risk](https://arxiv.org/pdf/2505.05193)
 * [Policy Learning with Confidence](https://arxiv.org/pdf/2502.10653)
+* [Scenario discuovery to address deep uncertainty in MP](https://www.sciencedirect.com/science/article/pii/S0165188925001344?dgcid=raven_sd_via_email)
 * [International Spillovers of Monetary Policy: The Role of Currency Compositions](https://www.sundram.dk/US_MP_Spillovers.pdf)
 * [Divine Coincidence or Dismal Coordination? The Fiscal Requirements of a Dual Mandate](https://www.amherst.edu/system/files/dcordc.pdf)
 * [Complete Pass-through in Levels](https://kunalsangani.com/files/complete_passthrough_live.pdf)
