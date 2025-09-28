@@ -1,5 +1,16 @@
 ## September 2025
 
+* [Modernizing the FOMC's Target](https://www.dallasfed.org/news/speeches/logan/2025/lkl250925?d=1&s=tw)
+* [RW Forecasts of Stationary Processes Have Low Bias](https://www.nber.org/papers/w34112)
+* [Learning and Expectations in Dynamic Spatial Economies](https://www.nber.org/papers/w31504)
+* [DL in the Sequence Space](https://arxiv.org/abs/2509.13623)
+* [Wait and See: Investment options under policy uncertainty ](https://www.sciencedirect.com/science/article/pii/S109420251500037X)
+*[ Prices and Symmetries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132200)
+* [LP Bootstrap](https://arxiv.org/abs/2509.17949)
+*[ Optimal Fiscal Reform w/ Many Taxes](https://avdluduvice.github.io/files/CLY_ManyTaxes_Sep25_slides.pdf)
+* [Are Treasuries a Safe Asset?](https://www.dropbox.com/scl/fi/q19025cnm7e2xatj6iily/GCKLZ_2025_NFA.pdf?rlkey=v1bgosau63n5ekagmkmk7785q&e=1&dl=0)
+* [Dynamic LATE in Time Series](https://arxiv.org/abs/2509.12985)
+* [Conquest Lost and Regained: American Inflation in the 2020s](https://www.dropbox.com/scl/fi/kfymwu2vnehbqydo9pvgu/lost4.pdf?rlkey=jsm7vt3id5glaso2r76aerhph&e=1&st=ffvt3syx&dl=0)
 * [Deep Learning for Solving Economics Models](https://www.sas.upenn.edu/~jesusfv/Deep_Learning_Solving.pdf) 
 * [Expectation Response Functions in Dynamic Linear Economies](https://www.nber.org/papers/w34210)
 * [What Makes Depositors Tick? Insights into HH Liquid Asset Allocation](https://fercirelli.github.io/personal_website/Cirelli_Olafsson_0825.pdf)
