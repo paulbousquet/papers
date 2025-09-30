@@ -1,5 +1,10 @@
 ## September 2025
 
+* [Extreme Value Theory with Het Agents](https://x.com/SephorahMangin/status/1972888973468115315)
+* [Zurich ML Reading Group](https://x.com/YuchengYang1993/status/1972761822878167087)
+* [What's next for r*? A capital market perspective](https://www.brookings.edu/events/bpea-fall-2025-conference/)
+* [Interest Rates and Equity Valuations](https://x.com/BasilHalperin/status/1967035819669024894)
+* [Failing Banks](https://x.com/EmilVerner/status/1965797860441776334)
 * [Modernizing the FOMC's Target](https://www.dallasfed.org/news/speeches/logan/2025/lkl250925?d=1&s=tw)
 * [RW Forecasts of Stationary Processes Have Low Bias](https://www.nber.org/papers/w34112)
 * [Learning and Expectations in Dynamic Spatial Economies](https://www.nber.org/papers/w31504)
