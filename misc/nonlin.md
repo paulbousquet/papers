@@ -15,4 +15,4 @@
 ## WPs
 
 * [The implications of CIP devfiations for international capital flows](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3017~2c077fb436.en.pdf)
-*[ Uncertainty Through the Production Network](https://www.nber.org/papers/w33953)
+* [Uncertainty Through the Production Network](https://www.nber.org/papers/w33953)
