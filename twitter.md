@@ -1,3 +1,7 @@
+## October 2025
+
+* [Interest Rate Uncertainty as a Policy Tool?](https://www.sciencedirect.com/science/article/abs/pii/S0022199625001370)
+
 ## September 2025
 
 * [Extreme Value Theory with Het Agents](https://x.com/SephorahMangin/status/1972888973468115315)
