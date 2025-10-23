@@ -9,3 +9,10 @@
 * [Strategic Forecasts Under Ambiguity ](https://www.dropbox.com/scl/fi/mo24tuuw8ox2b3pyvscv0/Strategic-Forecasts-Under-Ambiguity.pdf?rlkey=3gppji013f9bggqwubift7ev9&e=1&dl=0)
 * [The Judgemental Decision of Professional Forecasters](https://aisberg.unibg.it/retrieve/4d81785c-a981-409b-b6ab-3b7d54da27b4/WPEconomics_31.pdf)
 * [Uncovering Subjective Models from Survey Expectations](https://sevhou.github.io/research/Joint_learning_latest.pdf)
+
+  ---
+
+  * [Is There Hope for the Expectations Hypothesis?](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1098.pdf)
+  * [Expectations Formation and Forward Information](https://eml.berkeley.edu/~ygorodni/GG_forward_information.pdf)
+  *[ How Do We Learn about the Long Run?](https://www.dropbox.com/scl/fi/yntgj55pxron2t8py73wr/CEMP2_2025.pdf?rlkey=njcjss6ef07t2jvku6vwain7i&e=1&dl=0)
+
