@@ -14,3 +14,4 @@
 * [Operator Learning in Macro](https://warwick.ac.uk/fac/soc/economics/staff/yzhong/yaolang_zhong_jmp.pdf)
 * [DL in the Sequence Space](https://arxiv.org/abs/2509.13623)
 * [Some Notes](https://interactive-learning-algos.github.io/)
+* [Discrete Choice DL](https://huuhoang2211.github.io/hoangnguyen.com/NNES_DDC_JMP_20251005.pdf)
