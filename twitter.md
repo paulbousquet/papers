@@ -32,7 +32,7 @@
 * [The Race Between Asset Supply and Demand ](https://straub.scholars.harvard.edu/sites/g/files/omnuum7751/files/2025-08/AMRS%20Jackson%20Hole.pdf)
 * [FEDS Notes prepared for Jackson Hole 2025](https://x.com/FedResearch/status/1958897485096665155)
 * [Beyond the Tayor Rule](https://eml.berkeley.edu/~jsteinsson/papers/Taylor_Rule.pdf)
-* [A meta-analysis of monetary policy regressions](https://osf.io/preprints/osf/72cen_v2)
+* [A meta-analysis of monetary policy regressions]([https://osf.io/preprints/osf/72cen_v2](https://x.com/paulbsqt/status/1958523224653705287))
 * [Robustness Measures for Welfare Analysis ](https://x.com/shoshievass/status/1951060540421472709)
 * [Monetary Policy and Supply Disturbances: A Heterogeneous Firm Approach ](https://storage.e.jimdo.com/file/48210076-fded-43d1-b774-0f46c270fb5d/Seoul_World_Congress_2025-13.pdf)
 
