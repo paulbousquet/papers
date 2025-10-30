@@ -2,6 +2,7 @@
 * [AI and the Fed ](https://www.nber.org/papers/w33998)
 * [Fed in Silico](https://www2.gwu.edu/~forcpgm/2025-005.pdf)
 * [A First Conceptual Assessment](https://www.suerf.org/wp-content/uploads/2025/01/SUERF-Policy-Brief-1080-Hartmann_Maver.pdf)
+* [Mapping the space of central bankers' ideas](https://www.bis.org/publ/work1299.htm)
 
 ## Higher Order Beliefs
 
