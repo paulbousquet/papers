@@ -1,5 +1,8 @@
 ## October 2025
 
+* [JFV on Robustness](https://x.com/JesusFerna7026/status/1983954520410349969)
+* [Financial Wealth Ineqaulity with Declining Interest Rates](https://x.com/HannoLustig/status/1983152072926318615)
+* [The Real Cost of Benchmarking ](https://www.christiankontz.com/files/JMP_Christian_Kontz_TheRealCostOfBenchmarking.pdf)
 * [Interest Rate Uncertainty as a Policy Tool?](https://www.sciencedirect.com/science/article/abs/pii/S0022199625001370)
 
 ## September 2025
