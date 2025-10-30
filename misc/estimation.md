@@ -15,3 +15,4 @@
 * [DL in the Sequence Space](https://arxiv.org/abs/2509.13623)
 * [Some Notes](https://interactive-learning-algos.github.io/)
 * [Discrete Choice DL](https://huuhoang2211.github.io/hoangnguyen.com/NNES_DDC_JMP_20251005.pdf)
+* [Solving Models of Economic Dynamics with Ridgeless Kernel Regressions](https://x.com/MahdiKahou/status/1978787828554154211)
