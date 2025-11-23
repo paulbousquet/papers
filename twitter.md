@@ -1,3 +1,7 @@
+## November 2025
+
+* [Monads are (not) like burritos](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
+
 ## October 2025
 
 * [JFV on Robustness](https://x.com/JesusFerna7026/status/1983954520410349969)
