@@ -14,3 +14,4 @@
 
 * [The impact of artificial intelligence on output and inflation ](https://www.bis.org/publ/work1179.pdf)
 * [Strategic Wealth Accumulation Under TAI Expectations](https://arxiv.org/pdf/2502.11264)
+* [Financial markets](https://drive.google.com/file/d/1t0M2j3iGzoGDPCp3j8HMNzVMgwbAoXj9/view)
