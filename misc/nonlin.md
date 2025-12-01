@@ -16,3 +16,4 @@
 
 * [The implications of CIP devfiations for international capital flows](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3017~2c077fb436.en.pdf)
 * [Uncertainty Through the Production Network](https://www.nber.org/papers/w33953)
+* [euro shocks](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3157~f5789c7b8a.en.pdf?5a729734ecbff98f80ba39c456bcda71)
