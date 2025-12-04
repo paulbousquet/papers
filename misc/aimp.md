@@ -4,6 +4,7 @@
 * [A First Conceptual Assessment](https://www.suerf.org/wp-content/uploads/2025/01/SUERF-Policy-Brief-1080-Hartmann_Maver.pdf)
 * [Mapping the space of central bankers' ideas](https://www.bis.org/publ/work1299.htm)
 * [On Model Aggregation and Forecast Combination](https://www.atlantafed.org/-/media/documents/research/publications/wp/2025/10/09/12-on-model-aggregation-and-forecast-combination.pdf)
+* [Ambiguity Aggregation](https://arxiv.org/pdf/2512.03396)
 
 ## Higher Order Beliefs
 
