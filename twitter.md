@@ -1,13 +1,25 @@
+## December 2025
+
+* [Central Bank's Balance Sheet and Treasury Market Disruptions](https://x.com/QuentinVandewe2/status/1997035620959441159)
+
 ## November 2025
 
+* [Disagreement and MP](https://x.com/fr_amodeo/status/1992960606480277766?s=20)
+* [Florin Bilbiie HA Textbook](https://x.com/FlorinBilbiie/status/1993656140903948710?s=20)
 * [Monads are (not) like burritos](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
+* [Purifying the Equity Premium](https://x.com/ptuomov/status/1990804387367633142)
+* [Tariffs having bigger effect on Inputs](https://x.com/jbsteinberg/status/1990809096778321920)
+* [JFV: Deep Learning is not So Mysterious ](https://x.com/JesusFerna7026/status/1988172940026769444)
 
 ## October 2025
 
 * [JFV on Robustness](https://x.com/JesusFerna7026/status/1983954520410349969)
+* [Strategic Avoidance and the Welfare Impacts of US Solar Panel Tariffs](https://x.com/nberpubs/status/1983550836203499736)
+* [Trade Policy Ambiguity](https://x.com/nberpubs/status/1984305017696735646)
 * [Financial Wealth Ineqaulity with Declining Interest Rates](https://x.com/HannoLustig/status/1983152072926318615)
 * [The Real Cost of Benchmarking ](https://www.christiankontz.com/files/JMP_Christian_Kontz_TheRealCostOfBenchmarking.pdf)
 * [Interest Rate Uncertainty as a Policy Tool?](https://www.sciencedirect.com/science/article/abs/pii/S0022199625001370)
+* [AI and "Driving in the Fog"](https://x.com/testingham/status/1973849563569226143)
 
 ## September 2025
 
