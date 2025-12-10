@@ -3,3 +3,4 @@
 * [influence functions ](https://arxiv.org/pdf/1810.03260)
 * [DML IRF](https://arxiv.org/pdf/2411.10009) 
 * ["Residual-on-Residual" under TE heterogeneity](https://arxiv.org/pdf/2506.07462)
+* [Partially linear model and endogenous heteroskedasticity](https://arxiv.org/pdf/2412.02767)
