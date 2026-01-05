@@ -12,6 +12,7 @@
 * [Heterogeneous Responses to Signals and the Predictability of Forecast Errors ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4776880)
 * [Learning and the Emergence of Nonlinearities](https://www.nber.org/papers/w34584?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg22)
 * [Behavioral ML](https://arxiv.org/pdf/2303.16158)
+* [Biases in Belief Updating Within and Across Domains](https://www.nber.org/papers/w34638)
 
 ---
 
