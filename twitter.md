@@ -1,5 +1,25 @@
+## January 2026
+
+* [Seminar Practice Tool](https://x.com/plausiblyexog/status/2010376988893077904?s=20)
+* [Cannonical Macro papers](https://x.com/c_cantore/status/2010068133328138294?s=20)
+* [To scale econ, scale language](https://x.com/ethayarajh/status/2009371037591351415?s=20)
+* [ML Econ Notes](https://x.com/SilvaDejanir/status/2009021329027289226?s=20)
+* [Taxation and AI](https://x.com/BasilHalperin/status/2007582170660102456?s=20)
+* [How ricardian are we ](https://x.com/adamsjonathanj/status/2009284425603768747?s=20)
+* [Doubly robust inference via calibration](https://x.com/VC31415/status/2008485054633082917?s=20)
+* [Chad Jones ChatGPT Proof](https://x.com/ChadJonesEcon/status/2008209339694391567?s=20)
+* [Global Solution for Production Network Models](https://x.com/JesusFerna7026/status/2008181253447598086?s=20)
+* [O-Ring and AI](https://x.com/Afinetheorem/status/2008117262847488312?s=20)
+* [NK w/ HHH and HF](https://x.com/nberpubs/status/2007482297113608499?s=20)
+
 ## December 2025
 
+* [From RANK to HANK without FIRE ](https://x.com/nberpubs/status/2004945493806154152?s=20)
+* [Learning the Macroeconomic Langugae ](https://x.com/paulbsqt/status/2004259113312964779?s=20)
+* [RL for HA](https://x.com/ben_moll/status/2003046680716014070?s=20****)
+* [Uncertainty and MP communication](https://x.com/edugca/status/2002433464507957257)
+* [Trading Volume and MPS](https://x.com/paulbsqt/status/2002062832188449018?s=20)
+* [Hillenbrand update](https://x.com/VARshad_/status/1985836260808708215?s=20)
 * [Central Bank's Balance Sheet and Treasury Market Disruptions](https://x.com/QuentinVandewe2/status/1997035620959441159)
 
 ## November 2025
