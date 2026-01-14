@@ -12,6 +12,7 @@
 * [Disagreement and Discretionary Monetary Policy](https://www.ijcb.org/journal/ijcb25q1a8.pdf)
 * [Indebted Supply and Monetary Policy: A Theory of Financial Dominance](https://bcf.princeton.edu/wp-content/uploads/2025/04/APW_Sept25_PrincetonWang.pdf)
 * [A Pitfall of Cautious Monetary Policy](https://www.ijcb.org/journal/ijcb23q3a7.pdf)
+* [Bayesian inference in proxy SVARs with incomplete identification: Re-evaluating the validity of monetary policy instruments](https://www.sciencedirect.com/science/article/pii/S0304393225000844)
 * [Opening the Black Box of Local Projections](https://arxiv.org/pdf/2505.12422v1)
 * [Some Inference Perils of a Taylor Rule](https://www.lse.ac.uk/CFM/assets/pdf/Taylor-Rule.v2.3.pdf)
 * [Controls, Not Shocks: Estimating Dynamic Causal Effects in Macroeconomics](https://splloyd-econ.github.io/LM_CNS_Draft_Sep24.pdf)
