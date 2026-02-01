@@ -1,5 +1,16 @@
 ## January 2026
 
+* [Modern Financial Repression](https://x.com/int_mon_econ/status/2016109550840004958?s=20)
+* [Econ AI Skills](https://x.com/antoniomele101/status/2015837738973487202?s=20)
+* [ML for Central Bankers](https://x.com/pablo_guerron/status/2015828468286500914?s=20)
+* [Public Finance in the Age of AI](https://x.com/akorinek/status/2014716263050641753?s=20)
+* [Conditional Saddle Paths](https://x.com/HanbaekLee/status/2014302812914565602?s=20)
+* [Ricardian Non-Equivalence](https://x.com/jptguerreiro/status/2014021663185129742?s=20)
+* [Identification in the Proxy Zoo](https://x.com/eBlogs/status/2013132764581707872?s=20)
+* [Uncerttain Network Dynamics](https://x.com/Bellmanequation/status/2012166918371713048?s=20) 
+* [Artificial Jagged Intelligence ](https://x.com/January/status/2010955386606465236?s=20)
+* [ML Short Course](https://x.com/JesusFerna7026/status/2012567782978711820)
+* [Fiscal Inaction as Monetary Support ](https://x.com/nberpubs/status/2010502083477213436?s=20)
 * [Seminar Practice Tool](https://x.com/plausiblyexog/status/2010376988893077904?s=20)
 * [Cannonical Macro papers](https://x.com/c_cantore/status/2010068133328138294?s=20)
 * [To scale econ, scale language](https://x.com/ethayarajh/status/2009371037591351415?s=20)
