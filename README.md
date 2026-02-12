@@ -1,6 +1,7 @@
 # Papers I'm Working Through
 
 ## Newer
+* [Individual and Common Information: Model-Free Evidence from Probability Forecasts](https://www.kris-nimark.net/pdf/papers/kuang_nimark_ind_and_common_info.pdf)
 * [Monetary Policy and Supply Disturbances: A Heterogeneous Firm Approach ](https://storage.e.jimdo.com/file/48210076-fded-43d1-b774-0f46c270fb5d/Seoul_World_Congress_2025-13.pdf)
 * [Risk-Adjusted Optimal Policy for Scenario Analysis](https://giovanninicolo.com/wp-content/uploads/2025/06/risk-adjusted-oc.pdf)
 * [Identification of Systematic Monetary Policy](https://lukashack.com/files/sysmp/HIM_SysMP.pdf)
