@@ -22,6 +22,7 @@
 * [The Term Structure of Monetary Policy News](https://jonathanjadams.com/files/Adams%20Barrett%205%20-%20Term%20Structure/Term_Structure_of_Monetary_Policy_News.pdf)
 * [Investigating Instruments with Meta-Regressions ](https://drive.google.com/file/d/1Xmyb0EMDq4fcqcyGVNKVT02adKmm1aeN/view)
 * [Residualized Treatment Intensity and the Estimation of Average Partial Effects ](https://arxiv.org/pdf/2502.10301)
+* [Dynamic covariate balancing: estimating treatment effects over time with potential local projections](https://arxiv.org/pdf/2103.01280)
 
 ## Older 
 
