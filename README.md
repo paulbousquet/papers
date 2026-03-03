@@ -46,6 +46,7 @@
 * [Complete Pass-through in Levels](https://kunalsangani.com/files/complete_passthrough_live.pdf)
 * [The Capital Puzzle](https://www.bis.org/publ/work1288.pdf)
 * [Online Monitoring of Policy Optimality ](https://cb.is/library/news-and-publications/publications/working-papers/WorkingPaper_95_BjarniGEinarsson_OnlineMonetoringOfPolicyOptimalityApril2024_.pdf)
+* [Targeted Local Projections](https://arxiv.org/pdf/2603.00248v1)
 * [Impulse Response Analysis of Structural Nonlinear Time Series Models](https://arxiv.org/pdf/2305.19089)
 * [Semiparametric inference for impulse response functions using double/debiased machine learning](https://arxiv.org/pdf/2411.10009)
 * [Projection Estimators for Structure Impulse Responses](https://d-nb.info/1317452976/34#:~:text=,structural%20shock%20is%20estimated%20within)
