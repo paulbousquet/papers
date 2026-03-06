@@ -1,2 +1,4 @@
 - DSGE with heteroskedastic shocks https://www.imf.org/en/Publications/WP/Issues/2020/08/07/Managing-Macrofinancial-Risk-49598
 - DSGE w/ learning https://jacob-c-thompson.com/assets/Job_Market_Paper.pdf https://www.sciencedirect.com/science/article/pii/S0165188914000177
+
+- Shock propogation and macro fluccuations https://arxiv.org/pdf/2603.05367
