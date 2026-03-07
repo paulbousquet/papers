@@ -5,3 +5,4 @@
 * ["Residual-on-Residual" under TE heterogeneity](https://arxiv.org/pdf/2506.07462)
 * [Partially linear model and endogenous heteroskedasticity](https://arxiv.org/pdf/2412.02767)
 * [Unified Riesz Framework ](https://arxiv.org/abs/2601.07752)
+* [optimally weighted average derivitives](https://arxiv.org/pdf/2308.05456)
