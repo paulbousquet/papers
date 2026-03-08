@@ -1,3 +1,19 @@
+## March 2026
+
+* [NBER MP Spring Meeting](https://t.co/S2CKcnbfXn)
+* [AI, MP, Financial Stability](https://x.com/int_mon_econ/status/2029585697485603208?s=20)
+
+## February 2026
+
+* [Frequency Domain Webapp](https://x.com/Bellmanequation/status/2027845060847386659?s=20)
+* [Horseshoe TAI Growth Theory](https://x.com/alexolegimas/status/2025787894535696684)
+* [Zurich Macro Reading Group](https://x.com/YuchengYang1993/status/2025651712736780565)
+* [Tricking AI to p-hack](https://x.com/ahall_research/status/2024544040784720365?s=20)
+* [Kashi vs. Futures Markets](https://x.com/stevehou/status/2024384368916275392?s=20)
+* [Claude's Attempt at Macro-Labor JMP (Feb 2026)](https://x.com/paulbsqt/status/2022096966533132455)
+* [Narratives about the Macroeconomy](https://t.co/MaX3GR8dc2)
+* [A theory of knowledge hoarding ](https://x.com/testingham/status/2019839709757993113)
+
 ## January 2026
 
 * [Modern Financial Repression](https://x.com/int_mon_econ/status/2016109550840004958?s=20)
