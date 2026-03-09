@@ -16,3 +16,4 @@
 * [Some Notes](https://interactive-learning-algos.github.io/)
 * [Discrete Choice DL](https://huuhoang2211.github.io/hoangnguyen.com/NNES_DDC_JMP_20251005.pdf)
 * [Solving Models of Economic Dynamics with Ridgeless Kernel Regressions](https://x.com/MahdiKahou/status/1978787828554154211)
+* [Bounded Rationality as Limited Optimization](https://drive.google.com/file/d/1EtThauUoITTpZCY1MaVSSheef3FqveQ-/view)
