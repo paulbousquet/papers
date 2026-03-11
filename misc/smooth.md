@@ -3,6 +3,7 @@
 * [The Smoothing of Official Interest Rates](https://www.rba.gov.au/publications/confs/1997/pdf/lowe-ellis.pdf)
 * [Doves, Hawks, and Pigeons](https://www.sciencedirect.com/science/article/pii/S1572308916300985)
 * [The Central Bank Balance Sheet Trilemma ](https://www.federalreserve.gov/econres/notes/feds-notes/the-central-bank-balance-sheet-trilemma-20260114.html)
+* [Communicating monetary policy rules](https://www.sciencedirect.com/science/article/abs/pii/S0014292122001763?via%3Dihub)
 
 ### Loaded
 ```
