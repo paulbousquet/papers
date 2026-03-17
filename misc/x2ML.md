@@ -6,3 +6,4 @@
 * [Partially linear model and endogenous heteroskedasticity](https://arxiv.org/pdf/2412.02767)
 * [Unified Riesz Framework ](https://arxiv.org/abs/2601.07752)
 * [optimally weighted average derivitives](https://arxiv.org/pdf/2308.05456)
+* [DML for GMM](https://arxiv.org/pdf/2301.10643)
