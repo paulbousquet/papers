@@ -1,5 +1,6 @@
 ## March 2026
 
+* [Paradoxes in the Causal Interpretation of Equillibrium](https://x.com/drmtgr/status/2034556401238819097?s=20)
 * [Humans in the Loop: Subjective Choices/Prior Knowledge and Inference](https://x.com/MeganTStevenson/status/2031680075058356610/photo/1)
 * [LLM-Friendly Academic Papers](https://paulgp.com/2026/03/10/llms-txt-for-academic-papers.html)
 * [Unsolved ML Problems](https://x.com/EdgarDobriban/status/2031036631231119685?s=20)
