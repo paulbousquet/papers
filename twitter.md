@@ -1,3 +1,7 @@
+## April 2026
+
+- ["imagine how hard physics would be.."](https://x.com/JesusFerna7026/status/2042223067401769040?s=20)
+
 ## March 2026
 
 * [Paradoxes in the Causal Interpretation of Equillibrium](https://x.com/drmtgr/status/2034556401238819097?s=20)
