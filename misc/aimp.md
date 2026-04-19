@@ -5,6 +5,7 @@
 * [Mapping the space of central bankers' ideas](https://www.bis.org/publ/work1299.htm)
 * [On Model Aggregation and Forecast Combination](https://www.atlantafed.org/-/media/documents/research/publications/wp/2025/10/09/12-on-model-aggregation-and-forecast-combination.pdf)
 * [Ambiguity Aggregation](https://arxiv.org/pdf/2512.03396)
+* [Cyclical, Structural, and Financial Transition](https://www.newyorkfed.org/research/staff_reports/sr1192.html)
 
 ## Higher Order Beliefs
 
