@@ -1,11 +1,27 @@
+## May 2026
+
+* [Negative Control Tests](https://x.com/danzeltzer/status/2039357572302635257?s=20)
+  
 ## April 2026
 
-- ["imagine how hard physics would be.."](https://x.com/JesusFerna7026/status/2042223067401769040?s=20)
+* [Commoditization of Labor](https://x.com/JonSteinsson/status/2049135227839422604?s=20)
+* M[isspecification-Averse Estimation](https://x.com/eBlogs/status/2048957868552978841?s=20)
+* [AI Progress and Debt Sustainability](https://x.com/HannoLustig/status/2047687093997228416?s=20)
+* [Monetary Shocks and Long-Run AP](https://x.com/paulbsqt/status/2047682706981445950?s=20)
+* [(How Much) Should Macro become Applied Micro?](https://x.com/paulbsqt/status/2047418718376931508?s=20)
+* [Open Questions for Macro Models](https://x.com/MahdiKahou/status/2045165909384241514?s=20)
+* [Disaggregated Economic Accounts](https://x.com/ludwigstraub/status/2044494610731278835?s=20)
+* [MP with Tail Risks](https://x.com/RustamJamilov/status/2042591514144981171?s=20)
+* [Blessing of Overparameterizing](https://x.com/JesusFerna7026/status/2041869177699381596?s=20)
+* [The gaps in the credibility revolution](https://x.com/MeganTStevenson/status/2040781528418885813?s=20)
+* [Heckman vs. Angrist](https://x.com/mattkahn1966/status/2039696413312033185?s=20)
+* ["imagine how hard physics would be.."](https://x.com/JesusFerna7026/status/2042223067401769040?s=20)
 
 ## March 2026
 
+* [State-dep Prices](https://x.com/adamsjonathanj/status/2033542223116005776?s=20)
+* [MP and Global Financial Cycle](https://x.com/int_mon_econ/status/2032950364614341051?s=20)
 * [Paradoxes in the Causal Interpretation of Equillibrium](https://x.com/drmtgr/status/2034556401238819097?s=20)
-* [Humans in the Loop: Subjective Choices/Prior Knowledge and Inference](https://x.com/MeganTStevenson/status/2031680075058356610/photo/1)
 * [LLM-Friendly Academic Papers](https://paulgp.com/2026/03/10/llms-txt-for-academic-papers.html)
 * [Unsolved ML Problems](https://x.com/EdgarDobriban/status/2031036631231119685?s=20)
 * [NBER MP Spring Meeting](https://t.co/S2CKcnbfXn)
