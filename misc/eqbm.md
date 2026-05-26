@@ -4,3 +4,4 @@
 * [Learning from Prices](https://academic.oup.com/restud/article-abstract/92/3/1341/7852950?redirectedFrom=fulltext)
 * [ Robust Misspecified Models](https://cuiminba.com/uploads/Robust_Models.pdf)
 * [Misspecification Averse Estimation](https://arxiv.org/abs/2604.23176)
+* [Expectations channel for inflation to consumption](https://www.cnb.cz/en/economic-research/research-publications/cnb-working-paper-series/Households-Inflation-Expectations-and-Consumption-in-Macroeconomic-Models-AnbspNegative-Real-Income-Channel-00001/)
