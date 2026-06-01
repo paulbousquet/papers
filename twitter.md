@@ -1,5 +1,15 @@
+## June 2026
+
+* [Recurrent NN Visualization](https://x.com/ben_moll/status/2061474151034953813?s=20)
+
 ## May 2026
 
+* [Stability in GE](https://x.com/IvanWerning/status/2061173943667396960?s=20)
+* [IW Calvo Lecture](https://x.com/EconomiaJournal/status/2058858392425275428?s=20)
+* [Zurich Quant Macro Workshop](https://x.com/YuchengYang1993/status/2058211284785537407?s=20)
+* [What Lucas Meant](https://x.com/MacroscopeEcon/status/2057240157267558887?s=20)
+* [How well are LPs capturing nonlinearities?](https://x.com/paulbsqt/status/2056077706266136671?s=20)
+* [MP and Endogenous Financial Crises](https://x.com/RevEconStudies/status/2054549882791157911?s=20)
 * [Negative Control Tests](https://x.com/danzeltzer/status/2039357572302635257?s=20)
   
 ## April 2026
