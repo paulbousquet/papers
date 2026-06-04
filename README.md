@@ -48,6 +48,7 @@
 * [Non-parametric "Rich Covariates" Without Saturation](https://arxiv.org/pdf/2505.21213)
 * [Re-evaluating the validity of monetary policy instruments](https://www.sciencedirect.com/science/article/pii/S0304393225000844?dgcid=raven_sd_aip_email)
 * [Policy Rate Uncertainty and Money Market Funds (MMF) Portfolio Allocations](https://www.federalreserve.gov/econres/feds/files/2025063pap.pdf)
+* [When Do Treatment Changes Identify Causal Effects](https://arxiv.org/pdf/2606.02234) 
 
 ## Archive
 
