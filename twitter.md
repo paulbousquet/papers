@@ -1,5 +1,28 @@
+## July 2026
+
+* [Micro Responses to Macro Shocks](https://sancibrian-v.github.io/files/lp_panels.pdf)
+* [New Panel Reg Method](https://x.com/td_econ/status/2077740135735501019?s=20)
+* [Attention-based VAR](https://x.com/JuanAntolinDiaz/status/2077414876620746895?s=20)
+* [Solving HA models](https://x.com/RalphLuet/status/2077759378963173838?s=20)
+* [Why can the CB affect long term rates](https://x.com/timwillems85/status/2076663203845595353?s=20)
+* [Identifying Policy Causal Effects form Rule Changes](https://x.com/int_mon_econ/status/2076400903309930832?s=20)
+* [A Model of US MP and Financial Cycle](https://x.com/int_mon_econ/status/2075973058679001334?s=20)
+* [RL for Econ](https://x.com/ben_moll/status/2074860804835258795?s=20)
+* [Entry and Price Stickiness (and MP)](https://x.com/FlorinBilbiie/status/2074800357981515968?s=20)
+* [(large) Welfare Cost of Business Cycles in Multisector Models](https://x.com/NunoGalo/status/2074483510954349051?s=20)
+* [The international RBC model finally works!](https://x.com/int_mon_econ/status/2073861504273719734)
+* [Tom and Jerry and Econ Theories](https://x.com/paulbsqt/status/2073829379218489347?s=20)
+
 ## June 2026
 
+* [Fiscal Policy Uncertainty and Prices](https://x.com/PfaeutiEcon/status/2069435257678344678?s=20)
+* [Equillibrium World Models](https://x.com/comp_simon/status/2069431160195682612?s=20)
+* [The Incredibly Flexibility of Moment Matching ](https://x.com/paulbsqt/status/2069113951900639403?s=20) ([Rachel Childers](https://bsky.app/profile/donskerclass.bsky.social/post/3mp53mlln522c))
+* [Data-driven Automation](https://x.com/andrewjkoh/status/2067218066874740805?s=20)
+* [Decomposing Regression](https://x.com/paulbsqt/status/2064022141918486799?s=20)
+* [Sentiment-driven business cycles](https://x.com/EmilVerner/status/2062310889299300519?s=20)
+* [Learning Rates in DSGE Models](https://www.federalreserve.gov/econres/feds/slow-learning.htm)
+* [Bianchi/Kaplan on Approximating HA Models](https://x.com/JavierBianchi7/status/2061810370621174272?s=20)
 * [Recurrent NN Visualization](https://x.com/ben_moll/status/2061474151034953813?s=20)
 
 ## May 2026
