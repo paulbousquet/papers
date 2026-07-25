@@ -1,5 +1,6 @@
 ## July 2026
 
+* [NBER Links](https://gideon-bornstein.com/si2026.html)
 * [Micro Responses to Macro Shocks](https://sancibrian-v.github.io/files/lp_panels.pdf)
 * [New Panel Reg Method](https://x.com/td_econ/status/2077740135735501019?s=20)
 * [Attention-based VAR](https://x.com/JuanAntolinDiaz/status/2077414876620746895?s=20)
