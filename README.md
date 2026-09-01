@@ -50,6 +50,7 @@
 * [Policy Rate Uncertainty and Money Market Funds (MMF) Portfolio Allocations](https://www.federalreserve.gov/econres/feds/files/2025063pap.pdf)
 * [When Do Treatment Changes Identify Causal Effects](https://arxiv.org/pdf/2606.02234)
 * [Principal Component Analysis for a Mix of Stationary and Nonstationary Variables](https://arxiv.org/abs/2608.23732)
+* [The Social Value of Info: A Puzzle](https://arxiv.org/pdf/2605.11180)
 
 ## Archive
 
