@@ -17,6 +17,7 @@
 * [Investigating Instruments with Meta-Regressions ](https://drive.google.com/file/d/1Xmyb0EMDq4fcqcyGVNKVT02adKmm1aeN/view)
 * [Residualized Treatment Intensity and the Estimation of Average Partial Effects ](https://arxiv.org/pdf/2502.10301)
 * [Dynamic covariate balancing: estimating treatment effects over time with potential local projections](https://arxiv.org/pdf/2103.01280)
+* [Monetary policy surprises and their transmission through term premia and expected interest rates](https://www.sciencedirect.com/science/article/pii/S0304393221000842?dgcid=raven_sd_recommender_email)
 
 ## Older 
 
