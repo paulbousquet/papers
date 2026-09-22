@@ -19,3 +19,4 @@
 * [Solving Models of Economic Dynamics with Ridgeless Kernel Regressions](https://x.com/MahdiKahou/status/1978787828554154211)
 * [Bounded Rationality as Limited Optimization](https://drive.google.com/file/d/1EtThauUoITTpZCY1MaVSSheef3FqveQ-/view)
 * [Sequential DL](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3236~1dc726a7fe.en.pdf)
+* [Koopmans Operator](https://arxiv.org/pdf/2102.02522)
