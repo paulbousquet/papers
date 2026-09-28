@@ -20,3 +20,4 @@
 * [Bounded Rationality as Limited Optimization](https://drive.google.com/file/d/1EtThauUoITTpZCY1MaVSSheef3FqveQ-/view)
 * [Sequential DL](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3236~1dc726a7fe.en.pdf)
 * [Koopmans Operator](https://arxiv.org/pdf/2102.02522)
+* [DL as Projection](https://www.nber.org/papers/w35806)
