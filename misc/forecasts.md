@@ -14,7 +14,7 @@
 * [Behavioral ML](https://arxiv.org/pdf/2303.16158)
 * [Biases in Belief Updating Within and Across Domains](https://www.nber.org/papers/w34638)
 * [An empirical investigation of long-horizon macro forecasts](https://www.nber.org/papers/w34904?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg22)
-
+* [Agreed and Disagreed uncertainty](https://arxiv.org/pdf/2302.01621)
 ---
 
   * [Is There Hope for the Expectations Hypothesis?](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1098.pdf)
