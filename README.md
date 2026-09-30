@@ -71,3 +71,4 @@
 * [How Credible is the Federal Reserve?](https://www.aeaweb.org/articles?id=10.1257/mac.20150029)
 * [SVAR Scenario](https://www.sciencedirect.com/science/article/pii/S0304393220300751)
 * [Why ask Why](https://www.nber.org/system/files/working_papers/w19614/w19614.pdf)
+* [Learning, Adaption, Climate Uncertainty](https://namratakala.com/wp-content/uploads/2020/01/kala_learning_dec2019.pdf)
