@@ -1,5 +1,6 @@
 ## July 2026
 
+* [PC and Regression Weights](https://www.dropbox.com/scl/fi/xhq3087qnm5931oc3x8tr/pcr_treatment_effect_weights.pdf?rlkey=q5iq4hr82srh49ujjap64z97e&st=z9a9kztp&e=1&dl=0)
 * [NBER Links](https://gideon-bornstein.com/si2026.html)
 * [Micro Responses to Macro Shocks](https://sancibrian-v.github.io/files/lp_panels.pdf)
 * [New Panel Reg Method](https://x.com/td_econ/status/2077740135735501019?s=20)
