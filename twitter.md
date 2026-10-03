@@ -1,6 +1,5 @@
 ## July 2026
 
-* [PC and Regression Weights](https://www.dropbox.com/scl/fi/xhq3087qnm5931oc3x8tr/pcr_treatment_effect_weights.pdf?rlkey=q5iq4hr82srh49ujjap64z97e&st=z9a9kztp&e=1&dl=0)
 * [NBER Links](https://gideon-bornstein.com/si2026.html)
 * [Micro Responses to Macro Shocks](https://sancibrian-v.github.io/files/lp_panels.pdf)
 * [New Panel Reg Method](https://x.com/td_econ/status/2077740135735501019?s=20)
@@ -14,6 +13,8 @@
 * [(large) Welfare Cost of Business Cycles in Multisector Models](https://x.com/NunoGalo/status/2074483510954349051?s=20)
 * [The international RBC model finally works!](https://x.com/int_mon_econ/status/2073861504273719734)
 * [Tom and Jerry and Econ Theories](https://x.com/paulbsqt/status/2073829379218489347?s=20)
+* [PC and Regression Weights](https://www.dropbox.com/scl/fi/xhq3087qnm5931oc3x8tr/pcr_treatment_effect_weights.pdf?rlkey=q5iq4hr82srh49ujjap64z97e&st=z9a9kztp&e=1&dl=0)
+
 
 ## June 2026
 
