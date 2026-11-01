@@ -137,3 +137,11 @@
 }
 ```
 
+
+
+## space
+
+https://seungecon.github.io/files/ADAS_Theory.pdf)
+https://www.aeaweb.org/articles?id=10.1257%2Faer.20181857&utm_source=chatgpt.com
+https://www.minneapolisfed.org/research/staff-reports/lumpy-durable-consumption-demand-and-the-limited-ammunition-of-monetary-policy
+https://www.sciencedirect.com/science/article/abs/pii/S1094202522000436?utm_source=chatgpt.com
