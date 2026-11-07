@@ -19,6 +19,7 @@
 * [Dynamic covariate balancing: estimating treatment effects over time with potential local projections](https://arxiv.org/pdf/2103.01280)
 * [Monetary policy surprises and their transmission through term premia and expected interest rates](https://www.sciencedirect.com/science/article/pii/S0304393221000842?dgcid=raven_sd_recommender_email)
 * [Rate-Amplifying Demand and the Excess Sensitivity of Long-Term Rates](https://resources.newyorkfed.org/medialibrary/media/research/staff_reports/sr810.pdf?sc_lang=en&hash=4B38577AD9E5A9A66A0AF119BA861498)
+*[ Quantifying Dynamic Misspecification Biases in VARs](https://drive.google.com/file/d/1d0VMKAg7JCeHze0Y6sHI3X-PQWaD0o39/view)
 
 ## Older 
 
